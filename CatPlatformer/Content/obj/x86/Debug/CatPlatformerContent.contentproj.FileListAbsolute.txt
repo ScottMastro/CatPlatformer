@@ -1,0 +1,2 @@
+C:\Users\Scott\Desktop\New folder\CatPlatformer\Content\obj\x86\Debug\CatPlatformerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\Content\obj\x86\Debug\CatPlatformerContent.contentprojResolveAssemblyReference.cache

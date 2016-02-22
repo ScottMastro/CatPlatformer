@@ -1,0 +1,142 @@
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\CatPlatformer.exe
+C:\Users\Scott\Desktop\New folder\CatPlatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Scott\Desktop\New folder\CatPlatformer\obj\x86\Debug\CatPlatformer.exe
+C:\Users\Scott\Desktop\New folder\CatPlatformer\obj\x86\Debug\CatPlatformer.pdb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\background2.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\background1.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\background3.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\cat\catwalk.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw0.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw1.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw2.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw3.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw4.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw5.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw6.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw7.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\background0.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\ground0.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\ground2.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\ground1.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\health\health0.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\health\health1.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\health\health2.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\health\health3.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\health\health4.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\health\health5.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\health\health6.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\health\health7.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\health\health8.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\fish.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\score\0.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\score\1.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\score\2.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\score\3.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\score\4.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\score\5.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\score\6.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\score\7.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\score\8.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\score\9.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\score\score.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\floatgroundleft.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\floatgroundright.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\floatmidleft.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\floatmidright.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\balloon\dog.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\cat\catjump.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\cat\catfall.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\balloon\pop.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\dead.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\sign.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sprites\youwin.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\bell.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\meow0.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\meow1.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\meow2.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\meow3.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\scratch0.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\scratch1.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\scratch2.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\step0.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\step1.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\music.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\font.xnb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\sounds\music.wma
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\levels\level1.txt
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\levels\level2.txt
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\levels\level3.txt
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\Content\levels\level4.txt
+C:\Users\Scott\Desktop\New folder\CatPlatformer\bin\x86\Debug\CatPlatformer.pdb
+C:\Users\Scott\Desktop\New folder\CatPlatformer\obj\x86\Debug\CatPlatformer.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\background2.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\background1.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\background3.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\cat\catwalk.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw0.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw1.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw2.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw3.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw4.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw5.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw6.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\claw\claw7.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\background0.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\ground0.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\ground2.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\ground1.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\health\health0.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\health\health1.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\health\health2.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\health\health3.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\health\health4.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\health\health5.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\health\health6.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\health\health7.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\health\health8.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\fish.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\score\0.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\score\1.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\score\2.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\score\3.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\score\4.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\score\5.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\score\6.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\score\7.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\score\8.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\score\9.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\score\score.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\floatgroundleft.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\floatgroundright.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\floatmidleft.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\backgrounds\floatmidright.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\balloon\dog.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\cat\catjump.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\cat\catfall.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\balloon\pop.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\dead.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\sign.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sprites\youwin.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\bell.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\meow0.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\meow1.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\meow2.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\meow3.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\scratch0.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\scratch1.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\scratch2.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\step0.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\step1.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\music.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\font.xnb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\sounds\music.wma
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\levels\level1.txt
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\levels\level2.txt
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\levels\level3.txt
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\Content\levels\level4.txt
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\CatPlatformer.exe
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\bin\x86\Debug\CatPlatformer.pdb
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\obj\x86\Debug\CatPlatformer.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\obj\x86\Debug\CatPlatformer.exe
+C:\Users\Scott\Desktop\CatPlatformer\CatPlatformer\obj\x86\Debug\CatPlatformer.pdb
